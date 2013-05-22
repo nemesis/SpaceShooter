@@ -11,8 +11,8 @@
 #### It's an early beta and it was done for fun and entertainment, don't expect it to be super-cool and stuff.
 #### Have fun and thanks for visiting! ;)
 
-Legal notice: If any of the media assets like sprites, images or sounds effects that were used in the game are under your copyright and you don't want them to be used in this project (which is **not commercial**), please message me about this and I will do something about it to fix this up. Thanks.
-
 ### Lungu Constantin, UTM, FAF-111
+
+Legal notice: If any of the media assets like sprites, images or sounds effects that were used in the game are under your copyright and you don't want them to be used in this project (which is **not commercial**), please message me about this and I will do something about it to fix this up. Thanks.
 
 
