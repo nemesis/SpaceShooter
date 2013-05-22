@@ -13,6 +13,6 @@
 
 ### Lungu Constantin, UTM, FAF-111
 
-Legal notice: If any of the media assets like sprites, images or sounds effects that were used in the game are under your copyright and you don't want them to be used in this project (which is **not commercial**), please message me about this and I will do something about it to fix this up. Thanks.
+Legal notice: If any of the media assets like sprites, images or sounds effects that were used in the game are under your copyright and you don't want them to be used in this project (which is **not commercial**), please message me and I will do something about it to fix this up. Thanks.
 
 
